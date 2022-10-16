@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #121716;
+    text-align: center;
+}
+
+header {
+    background-color: #1F0A1D;
+    background-position: center;
+    background-size: cover;
+    padding: 5%;
+    background-image: url(pics/cos.jpg);
+}
+
+h1 {
+    color: #E5F0EE;
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+h12 {
+    color: #bdfffb;
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    padding: 2%;
+    font-size: 300%;
+}
+
+h2 {
+    color: #B4C4AE;
+    font-family: 'Urbanist', sans-serif;
+    text-align: left;
+    padding: 2%;
+}
+
+h21 {
+    color: #B4C4AE;
+    font-family: 'Urbanist', sans-serif;
+}
+
+p {
+    color: #B4C4AE;
+    font-family: 'Urbanist', sans-serif;
+    text-align: left;
+}
+
+p1 {
+    color: #1F0A1D;
+    padding: 1%;
+    text-align: center;
+    text-decoration-thickness: 10px;
+    background-color: #92f0f7;
+}
+
+p12{
+    color: #B4C4AE;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    margin: 2% 
+}
+
+.quote {
+    text-align: left;
+    font-size: xx-large;
+    border: offset;
+    margin-right: 2%;
+    text-decoration-line: underline;
+}
+
+main {
+    margin: 2% 5%;
+}
+
+img {
+    max-width: 50%;
+    margin: 1% 30%;
+    max-height: 10%;
+}
+
