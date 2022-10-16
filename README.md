@@ -1,2 +1,2 @@
 # Daily-Inspiratress-
-Learn about an inspiring woman in STEM or other varying fields.
+Get a daily dose of information about an inspiring woman in STEM and other varying fields.
